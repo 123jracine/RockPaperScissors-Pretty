@@ -16,7 +16,7 @@
    display: inline-block;
 }
 
-.choice:hover {
+.choices:hover {
   cursor: pointer;
   background: #696969;
 }
