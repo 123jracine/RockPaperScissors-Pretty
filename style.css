@@ -18,6 +18,7 @@
 
 .choices:hover {
   cursor: pointer;
+  background: #696969;
 }
 
 .score-board {
