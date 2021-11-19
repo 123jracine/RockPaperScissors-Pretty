@@ -4,7 +4,7 @@
 }
 
 .choices {
-  margin: 50px 10px;
+  margin: 50px 0px;
   text-align: center
 }
 
@@ -18,7 +18,8 @@
 
 .choices:hover {
   cursor: pointer;
-  background: #696969;
+  background-color: #696969;
+  
 }
 
 .score-board {
